@@ -21,5 +21,4 @@ Exploring the socio-cultural and economic factors that may influence athletes' p
 This project offers a comprehensive analysis of the Olympic athletes dataset, providing valuable insights into the history and trends of the Olympic Games. By analyzing the data, we gained a deeper understanding of athletes' performances, countries' participation, and the evolving landscape of Olympic sports. We hope this analysis serves as a valuable resource for researchers, sports enthusiasts, and anyone interested in the Olympic Games and the achievements of its athletes.
 
 ## Dataset Source
-The Olympic athletes dataset used in this analysis can be obtained from https://drive.google.com/drive/folders/1S-Pc-
-2PD35QSUzN31SKYA16cdqNMdAn0?usp=share_link
+The Olympic athletes dataset used in this analysis can be obtained from https://drive.google.com/drive/folders/1S-Pc-2PD35QSUzN31SKYA16cdqNMdAn0?usp=share_link
